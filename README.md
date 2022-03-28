@@ -4,4 +4,4 @@ A collection of markdown documents on how to set up shit for programming languag
 
 ## Available
 
-• C/C++
+- [C/C++](https://github.com/haya3218/no-ide/blob/master/cpp/CMake.md)
